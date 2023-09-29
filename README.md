@@ -1,4 +1,4 @@
 # Conky-configurations
 
-Space to add an important Conky configurations to work on for fun and workspace
+Space to add any important Conky configurations to work on for fun and workspace
 embelishment.
